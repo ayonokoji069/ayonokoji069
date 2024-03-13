@@ -1,4 +1,4 @@
-!logo](htt://github.com/Ashutosh Misrashata/lab/win/hithuanner.png)
+![logo](htt://github.com/Ashutosh Misrashata/lab/win/hithuanner.png)
 
 Every challenge is an opportunity to showcase my strength and cunning
 
