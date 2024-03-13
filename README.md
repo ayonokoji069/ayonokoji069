@@ -1,4 +1,3 @@
-mi
 
 <img src="https://github.com/ayonokoji069/ayonokoji069/raw/main/1000000681%20(1).gif" alt="Animated GIF" width="1000">
 
@@ -50,17 +49,8 @@ ________________________________________________________________________________
 </pre>
 
 
-<div style="border: 2px solid #000; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);">
-
-<style>
-@media only screen and (max-width: 768px) {
-    .window-content {
-        padding: 10px;
-    }
-}
-</style>
-
-<pre class="window-content">🔴🟢🟡                           STATUS.exe                            —⠀❐ x
+<div style="border: 2px solid #000; border-radius: 10px; padding: 20px; box-shadow: 0 4px <div style="width: 80%; max-width: 600px; margin: 0 auto; border: 2px solid #000; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);">
+    <pre>🔴🟢🟡                           STATUS.exe                            —⠀❐ x
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayonokoji069&show_icons=true)
 
@@ -69,7 +59,6 @@ ________________________________________________________________________________
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ayonokoji069)
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ayonokoji069)
-</pre>
-
+    </pre>
 </div>
-ALL LINKS WILL WORK BY THE END OF 2027 
+
