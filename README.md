@@ -41,6 +41,7 @@ ________________________________________________________________________________
 
 
 <pre>🔴🟢🟡                          CONNECTION.exe                        —⠀❐ x
+  
 <p><img src="https://github-profile-trophy.vercel.app/?username=ayonokoji069">
 </p>
 </pre>
