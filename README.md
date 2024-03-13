@@ -32,8 +32,8 @@ ________________________________________________________________________________
 <a href="https://github-profile-page-creator.netlify.app/"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a><a href="https://github-profile-page-creator.netlify.app/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" style="margin-bottom: 4px;" height="30px" target="_blank"></a><a href="https://github-profile-page-creator.netlify.app/"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a><a href="https://github-profile-page-creator.netlify.app/"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 </pre>
-<div>
-<pre>🔴🟢🟡                         GITHUB BADGES.exe                         —⠀❐ x</pre>
+
+<pre>🔴🟢🟡                        GITHUB BADGES.exe                        —⠀❐ x</pre>
 <p>
 <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="24" height="24px"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="24" height="24px">
 <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" height="24px"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="24" height="24px">
