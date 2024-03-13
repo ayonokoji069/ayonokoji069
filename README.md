@@ -40,9 +40,10 @@ ________________________________________________________________________________
 </pre>
 
 
-<pre>🔴🟢🟡                          CONNECTION.exe                        —⠀❐ x</pre>
+<pre>🔴🟢🟡                          CONNECTION.exe                        —⠀❐ x
 <p><img src="https://github-profile-trophy.vercel.app/?username=ayonokoji069">
 </p>
+</pre>
 
 ## -- Github Status
 
