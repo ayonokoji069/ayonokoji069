@@ -5,7 +5,18 @@ mi
 
 Every challenge is an opportunity to showcase my strength and cunning
 __________________________________________________________________________________________
-<div style="border: 2px solid #000; padding: 10px;">
+<style>
+  .custom-box {
+    border: 2px solid #000;
+    padding: 10px;
+    max-height: 400px; /* Adjust height as needed */
+    overflow: auto; /* Hide scrollbar */
+    background-color: #f0f0f0; /* Light gray background */
+    border-radius: 5px; /* Rounded corners */
+  }
+</style>
+
+<div class="custom-box">
     <pre>
     🔴🟢🟡                           AYANOKOJI.exe                         —⠀❐ x
 
