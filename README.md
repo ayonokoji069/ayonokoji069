@@ -5,7 +5,7 @@
 
 Every challenge is an opportunity to showcase my strength and cunning
 __________________________________________________________________________________________
-<pre>🔴🟢🟡                            AYANOKOJI.exe                         —⠀❐ x
+<pre>🔴🟢🟡                          AYANOKOJI.exe                         —⠀❐ x
 
 <p>🔭 I'm currently working on LOADING.........</p>
 <p>👯 I want to collaborate on </p>
