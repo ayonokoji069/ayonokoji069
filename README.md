@@ -43,12 +43,11 @@ ________________________________________________________________________________
 </pre>
 
 <pre>🔴🟢🟡                           CONNECTION.exe                        —⠀❐ x
+
+ 
   
 <p><img src="https://github-profile-trophy.vercel.app/?username=ayonokoji069">
 </p>
-</pre>
-
-
   
 <p><img src="https://github-readme-stats.vercel.app/api?username=ayonokoji069&show_icons=true"><p>
 
@@ -57,4 +56,4 @@ ________________________________________________________________________________
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ayonokoji069"><p>
 
 <p><img src="https://visitcount.itsvg.in/api?id=ayonokoji069&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
-</pre>  make this section dynamic for my GitHub profile
+</pre>  
