@@ -10,7 +10,7 @@ ________________________________________________________________________________
 <pre style="text-align: left;">
 🔴🟢🟡                                     AYANOKOJI.exe                                  —⠀❐ x
 
-<img src="https://i.gifer.com/7RwF.gif">
+<img src="https://i.gifer.com/7RwF.gif](https://i.gifer.com/7ZN3.gif">
 <p style="text-align: left;">🔭 I'm currently working on LOADING.........</p>
 <p style="text-align: left;">👯 I want to collaborate on </p>
 <p style="text-align: left;">🙏 I'm looking for help with LOADING.........</p>
