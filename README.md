@@ -49,18 +49,12 @@ ________________________________________________________________________________
 </pre>
 
 
-<div style="width: 80%; max-width: 600px; margin: 0 auto; border: 2px solid #000; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); position: relative;">
-    <div style="position: absolute; top: 10px; right: 10px;">
-        <pre>—⠀❐ x</pre>
-    </div>
-    <pre>🔴🟢🟡                           STATUS.exe                           
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayonokoji069&show_icons=true)
+<p><img src="https://github-readme-stats.vercel.app/api?username=ayonokoji069&show_icons=true"><p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayonokoji069&layout=compact)
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayonokoji069&layout=compact"><p>
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ayonokoji069)
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ayonokoji069"><p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ayonokoji069)
-    </pre>
-</div>
+<p><img src="https://visitcount.itsvg.in/api?id=ayonokoji069&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
+</pre>  make this section dynamic for my GitHub profile
