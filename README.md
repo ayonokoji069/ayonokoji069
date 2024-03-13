@@ -40,14 +40,14 @@ ________________________________________________________________________________
 
 
 
-<pre>🔴🟢🟡                           CONNECTION.exe                           —⠀❐ x
+<pre>🔴🟢🟡                           CONNECTION.exe                        —⠀❐ x
   
 <p><img src="https://github-profile-trophy.vercel.app/?username=ayonokoji069">
 </p>
 </pre>
 
 
-<pre>🔴🟢🟡                           STATUS.exe                        —⠀❐ x
+<pre>🔴🟢🟡                              STATUS.exe                           —⠀❐ x
   
 <p><img src="https://github-readme-stats.vercel.app/api?username=ayonokoji069&show_icons=true"><p>
 
