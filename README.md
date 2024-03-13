@@ -46,8 +46,8 @@ ________________________________________________________________________________
 </p>
 </pre>
 
-## -- Github Status
 
+<pre>🔴🟢🟡                          STATUS.exe                        —⠀❐ x
 <p><img src="https://github-readme-stats.vercel.app/api?username=ayonokoji069&show_icons=true"><p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayonokoji069&layout=compact"><p>
@@ -55,5 +55,6 @@ ________________________________________________________________________________
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ayonokoji069"><p>
 
 <p><img src="https://visitcount.itsvg.in/api?id=ayonokoji069&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
+</pre>
 
 ALL LINKS WILL WORK BY THE END OF 2027 
