@@ -39,8 +39,8 @@ ________________________________________________________________________________
 </p>
 </pre>
 
-## --GitHub Trophies
 
+<pre>🔴🟢🟡                          CONNECTION.exe                        —⠀❐ x</pre>
 <p><img src="https://github-profile-trophy.vercel.app/?username=ayonokoji069">
 </p>
 
