@@ -18,7 +18,7 @@ ________________________________________________________________________________
 <p>Know about my experiences <a href="LOADING.........">here</a></p>
 </pre>
 
-<pre>🔴🟢🟡                            SKILLS.exe                       —⠀❐ x
+<pre>🔴🟢🟡                            SKILLS.exe                        —⠀❐ x
 <p>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="margin-bottom: 4px;" height="30px">
