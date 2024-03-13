@@ -6,18 +6,22 @@ mi
 Every challenge is an opportunity to showcase my strength and cunning
 __________________________________________________________________________________________
 
-<pre>🔴🟢🟡                                 AYANOKOJI.exe                              —⠀❐ x
+<div style="border: 2px solid #000; padding: 10px; max-width: 600px; background-color: #f0f0f0; border-radius: 5px;">
+    <pre>
+    🔴🟢🟡                                 AYANOKOJI.exe                              —⠀❐ x
 
-<p>🔭 I'm currently working on LOADING.........</p>
-<p>👯 I want to collaborate on </p>
-<p>🙏 I'm looking for help with LOADING.........</p>
-<p>🌱 I'm currently learning </p>
-<p>💬 Ask me about </p>
-<p>📫 How to reach me? </p>
-<p>I regularly write articles on <a href="LOADING........."></a></p>
-<p>All of my projects are available at <a href="LOADING........."></a></p>
-<p>Know about my experiences <a href="LOADING.........">here</a></p>
-</pre>
+    <p>🔭 I'm currently working on LOADING.........
+    <p>👯 I want to collaborate on 
+    <p>🙏 I'm looking for help with LOADING.........</p>
+    <p>🌱 I'm currently learning </p>
+    <p>💬 Ask me about </p>
+    <p>📫 How to reach me? </p>
+    <p>I regularly write articles on <a href="LOADING........."></a></p>
+    <p>All of my projects are available at <a href="LOADING........."></a></p>
+    <p>Know about my experiences <a href="LOADING.........">here</a></p>
+    </pre>
+</div>
+
 
 <pre>🔴🟢🟡                                   SKILLS.exe                              —⠀❐ x
 <p>
