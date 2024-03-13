@@ -1,7 +1,6 @@
 
 
-<img src="https://github.com/ayonokoji069/ayonokoji069/raw/main/1000000681%20(1).gif" alt="Animated GIF" width="1000">
-<img src="https://tenor.com/bYICV.gif">
+<img src="https://github.com/ayonokoji069/ayonokoji069/raw/main/1000000681%20(1).gif" alt="Animated GIF" width="1000">bhi
 
 Every challenge is an opportunity to showcase my strength and cunning
 __________________________________________________________________________________________
