@@ -47,7 +47,7 @@ ________________________________________________________________________________
 </pre>
 
 
-<pre>🔴🟢🟡                              STATUS.exe                           —⠀❐ x
+<pre>🔴🟢🟡                          STATUS.exe                           —⠀❐ x
   
 <p><img src="https://github-readme-stats.vercel.app/api?username=ayonokoji069&show_icons=true"><p>
 
