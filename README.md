@@ -58,6 +58,3 @@ ________________________________________________________________________________
 
 <p><img src="https://visitcount.itsvg.in/api?id=ayonokoji069&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
 </pre>  
-### Atom Animation
-
-<iframe src="https://github.com/ayonokoji069/ayonokoji069/blob/main/Lt.html" width="200" height="200"></iframe>
