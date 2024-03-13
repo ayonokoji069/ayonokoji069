@@ -9,7 +9,6 @@ ________________________________________________________________________________
 <pre style="text-align: left;">
 🔴🟢🟡                                     AYANOKOJI.exe                                  —⠀❐ x
 
-<img src="https://tenor.com/bYICV.gif">
 <p style="text-align: left;">🔭 I'm currently working on LOADING.........</p>
 <p style="text-align: left;">👯 I want to collaborate on </p>
 <p style="text-align: left;">🙏 I'm looking for help with LOADING.........</p>
