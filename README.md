@@ -2,7 +2,7 @@
 
 Every challenge is an opportunity to showcase my strength and cunning
 __________________________________________________________________________________________
-## 💫 Liitle Bit More About Me
+##--Liitle Bit More About Me
 <p>🔭 I'm currently working on LOADING.........</p>
 <p>👯 I want to collaborate on </p>
 <p>🙏 I'm looking for help with LOADING.........</p>
@@ -13,7 +13,7 @@ ________________________________________________________________________________
 <p>All of my projects are available at <a href="LOADING........."></a></p>
 <p>Know about my experiences <a href="LOADING.........">here</a></p>
 
-## 💻 Skills
+## --Skills
 <p>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="margin-bottom: 4px;" height="30px">
@@ -27,7 +27,7 @@ ________________________________________________________________________________
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
 </p>
 
-## 👥 Connect With Me
+## --Connect With Me(2027)
 <p>
 <a href="https://github-profile-page-creator.netlify.app/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://github-profile-page-creator.netlify.app/"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
@@ -49,7 +49,7 @@ ________________________________________________________________________________
 <a href="https://github-profile-page-creator.netlify.app/"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-## 🌟 Github Badges
+## -- Github Badges
 <p>
 <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" height="24px">
 <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" height="24px">
@@ -58,12 +58,12 @@ ________________________________________________________________________________
 <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif" height="24px">
 </p>
 
-## 🏆 GitHub Trophies
+## --GitHub Trophies
 
 <p><img src="https://github-profile-trophy.vercel.app/?username=ayonokoji069">
 </p>
 
-## 📊 Github Status
+## -- Github Status
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=ayonokoji069&show_icons=true"><p>
 
