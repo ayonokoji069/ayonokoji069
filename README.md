@@ -18,7 +18,7 @@ ________________________________________________________________________________
 <p>Know about my experiences <a href="LOADING.........">here</a></p>
 </pre>
 
-🔴🟢🟡                          AYANOKOJI.exe                       —⠀❐ x
+<pre>🔴🟢🟡                          AYANOKOJI.exe                       —⠀❐ x
 <p>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="margin-bottom: 4px;" height="30px">
@@ -31,7 +31,7 @@ ________________________________________________________________________________
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
 </p>
-
+</pre>
 ## --Connect With Me(2027)
 <p>
 <a href=""><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
