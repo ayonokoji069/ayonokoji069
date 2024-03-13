@@ -33,11 +33,11 @@ ________________________________________________________________________________
 </p>
 </pre>
 
-<pre>🔴🟢🟡                         GITHUB BADGES.exe                        —⠀❐ x
+🔴🟢🟡                         GITHUB BADGES.exe                        —⠀❐ x
 <p>
 <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="24" height="24px"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="24" height="24px"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" height="24px"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="24" height="24px"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif" width="24" height="24px">
 </p>
-</pre>
+
 
 
 <pre>🔴🟢🟡                          CONNECTION.exe                        —⠀❐ x
