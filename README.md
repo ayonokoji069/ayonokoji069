@@ -5,7 +5,7 @@
 
 Every challenge is an opportunity to showcase my strength and cunning
 __________________________________________________________________________________________
-<pre>🔴🟢🟡                          AYANOKOJI.exe                         —⠀❐ x
+<pre>🔴🟢🟡                            AYANOKOJI.exe                         —⠀❐ x
 
 <p>🔭 I'm currently working on LOADING.........</p>
 <p>👯 I want to collaborate on </p>
@@ -18,13 +18,13 @@ ________________________________________________________________________________
 <p>Know about my experiences <a href="LOADING.........">here</a></p>
 </pre>
 
-<pre>🔴🟢🟡                            SKILLS.exe                         —⠀❐ x
+<pre>🔴🟢🟡                              SKILLS.exe                         —⠀❐ x
 <p>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="margin-bottom: 4px;" height="30px"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="margin-bottom: 4px;" height="30px"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="margin-bottom: 4px;" height="30px"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" style="margin-bottom: 4px;" height="30px"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
 </p>
 </pre>
-<pre>🔴🟢🟡                          CONNECTION.exe                        —⠀❐ x
+<pre>🔴🟢🟡                          CONNECTION.exe                         —⠀❐ x
 <p>
 <a href=""><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a><a href=""><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a><a href="https://github-profile-page-creator.netlify.app/"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a><a href="https://github-profile-page-creator.netlify.app/"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://github-profile-page-creator.netlify.app/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a><a href="https://github-profile-page-creator.netlify.app/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a><a href="https://github-profile-page-creator.netlify.app/"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a><a href="https://github-profile-page-creator.netlify.app/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a><a href="https://github-profile-page-creator.netlify.app/"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
@@ -33,21 +33,21 @@ ________________________________________________________________________________
 </p>
 </pre>
 
-🔴🟢🟡                         GITHUB BADGES.exe                        —⠀❐ x
+🔴🟢🟡                          GITHUB BADGES.exe                         —⠀❐ x
 <p>
 <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="24" height="24px"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="24" height="24px"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" height="24px"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="24" height="24px"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif" width="24" height="24px">
 </p>
 
 
 
-<pre>🔴🟢🟡                          CONNECTION.exe                        —⠀❐ x
+<pre>🔴🟢🟡                           CONNECTION.exe                        —⠀❐ x
   
 <p><img src="https://github-profile-trophy.vercel.app/?username=ayonokoji069">
 </p>
 </pre>
 
 
-<pre>🔴🟢🟡                          STATUS.exe                        —⠀❐ x
+<pre>🔴🟢🟡                           STATUS.exe                        —⠀❐ x
   
 <p><img src="https://github-readme-stats.vercel.app/api?username=ayonokoji069&show_icons=true"><p>
 
