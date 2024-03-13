@@ -50,7 +50,10 @@ ________________________________________________________________________________
 
 
 <div style="width: 80%; max-width: 600px; margin: 0 auto; border: 2px solid #000; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); position: relative;">
-    <pre>🔴🟢🟡                           STATUS.exe                            <span style="position: absolute; top: 10px; right: 10px;">—⠀❐ x</span>
+    <div style="position: absolute; top: 10px; right: 10px;">
+        <pre>—⠀❐ x</pre>
+    </div>
+    <pre>🔴🟢🟡                           STATUS.exe                           
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayonokoji069&show_icons=true)
 
