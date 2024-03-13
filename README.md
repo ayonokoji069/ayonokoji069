@@ -8,7 +8,7 @@ ________________________________________________________________________________
 
 <div style="border: 2px solid #000; padding: 10px; max-width: 600px; background-color: #f0f0f0; border-radius: 5px; text-align: left;">
     <pre style="text-align: left;">
-🔴🟢🟡.-Algn left                                AYANOKOJI.exe                                —⠀❐ x
+🔴🟢🟡                         AYANOKOJI.exe                                —⠀❐ x
 
 <p style="text-align: left;">🔭 I'm currently working on LOADING.........</p>
 <p style="text-align: left;">👯 I want to collaborate on </p>
