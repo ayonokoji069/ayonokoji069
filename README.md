@@ -1,6 +1,4 @@
-# Hi there 👋, My name is AYONOKOJI
-
-<img width="100%" src="  "https://leviarista.github.io/github-profile-header-generator/ alt="my banner">
+logo](htt://github.com/Ashutosh Misrashata/lab/win/hithuanner.png)
 
 Every challenge is an opportunity to showcase my strength and cunning
 
