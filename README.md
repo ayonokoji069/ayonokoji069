@@ -8,19 +8,21 @@ ________________________________________________________________________________
 
 <div style="border: 2px solid #000; padding: 10px; max-width: 600px; background-color: #f0f0f0; border-radius: 5px; text-align: left;">
     <pre style="text-align: left;">
-    🔴🟢🟡.-Algn left                                       AYANOKOJI.exe                              —⠀❐ x
+🔴🟢🟡.-Algn left                                AYANOKOJI.exe                                —⠀❐ x
 
-    <p style="text-align: left;">🔭 I'm currently working on LOADING.........</p>
-    <p style="text-align: left;">👯 I want to collaborate on </p>
-    <p style="text-align: left;">🙏 I'm looking for help with LOADING.........</p>
-    <p style="text-align: left;">🌱 I'm currently learning </p>
-    <p style="text-align: left;">💬 Ask me about </p>
-    <p style="text-align: left;">📫 How to reach me? </p>
-    <p style="text-align: left;">I regularly write articles on <a href="LOADING........."></a></p>
-    <p style="text-align: left;">All of my projects are available at <a href="LOADING........."></a></p>
-    <p style="text-align: left;">Know about my experiences <a href="LOADING.........">here</a></p>
-    </pre>
+<p style="text-align: left;">🔭 I'm currently working on LOADING.........</p>
+<p style="text-align: left;">👯 I want to collaborate on </p>
+<p style="text-align: left;">🙏 I'm looking for help with LOADING.........</p>
+<p style="text-align: left;">🌱 I'm currently learning </p>
+<p style="text-align: left;">💬 Ask me about </p>
+<p style="text-align: left;">📫 How to reach me? </p>
+<p style="text-align: left;">I regularly write articles on <a href="LOADING........."></a></p>
+<p style="text-align: left;">All of my projects are available at <a href="LOADING........."></a></p>
+<p style="text-align: left;">Know about my experiences <a href="LOADING.........">here</a></p>
+</pre>
 </div>
+
+ 
 
 
 
