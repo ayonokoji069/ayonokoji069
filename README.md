@@ -33,7 +33,7 @@ ________________________________________________________________________________
 </p>
 </pre>
 
-## -- Github Badges
+<pre>🔴🟢🟡                         GITHUB BADGES.exe                        —⠀❐ x
 <p>
 <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" height="24px">
 <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" height="24px">
@@ -41,6 +41,7 @@ ________________________________________________________________________________
 <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" height="24px">
 <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif" height="24px">
 </p>
+</pre>
 
 ## --GitHub Trophies
 
