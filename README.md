@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/ayonokoji069/ayonokoji069/raw/main/1000000681%20(1).gif)]
+<img src="https://images.app.goo.gl/qtnQy541uKvqNQkQA">
 
 <img src="https://github.com/ayonokoji069/ayonokoji069/raw/main/1000000681%20(1).gif" alt="Animated GIF" width="1000">
 
