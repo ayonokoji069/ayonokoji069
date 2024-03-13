@@ -1,5 +1,6 @@
 ![Alt Text](https://github.com/ayonokoji069/ayonokoji069/raw/main/1000000681%20(1).gif)
 
+<img src="https://github.com/ayonokoji069/ayonokoji069/raw/main/1000000681%20(1).gif" alt="Alt Text" style="width: 100%; height: auto;">
 
 Every challenge is an opportunity to showcase my strength and cunning
 __________________________________________________________________________________________
