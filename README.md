@@ -6,7 +6,7 @@
 Every challenge is an opportunity to showcase my strength and cunning
 __________________________________________________________________________________________
 ##--Liitle Bit More About Me
-🔴🟢🟡                          AYANOKOJI.exe                       —⠀❐ x
+<pre>🔴🟢🟡                          AYANOKOJI.exe                       —⠀❐ x
 <p>🔭 I'm currently working on LOADING.........</p>
 <p>👯 I want to collaborate on </p>
 <p>🙏 I'm looking for help with LOADING.........</p>
@@ -16,6 +16,7 @@ ________________________________________________________________________________
 <p>I regularly write articles on <a href="LOADING........."></a></p>
 <p>All of my projects are available at <a href="LOADING........."></a></p>
 <p>Know about my experiences <a href="LOADING.........">here</a></p>
+</pre>
 
 ## --Skills
 <p>
