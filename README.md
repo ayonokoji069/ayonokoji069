@@ -1,6 +1,6 @@
 # Hi there 👋, My name is AYONOKOJI
 
-<img width="100%" src="[https://github-profile-page-creator.netlify.app/](https://photos.app.goo.gl/PdmtJxgs41PEYFd1A)" alt="my banner">
+<img width="100%" src="  "https://leviarista.github.io/github-profile-header-generator/ alt="my banner">
 
 Every challenge is an opportunity to showcase my strength and cunning
 
