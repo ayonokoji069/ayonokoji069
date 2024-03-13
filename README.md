@@ -1,4 +1,4 @@
-
+mi
 
 <img src="https://github.com/ayonokoji069/ayonokoji069/raw/main/1000000681%20(1).gif" alt="Animated GIF" width="1000">
 
@@ -40,7 +40,7 @@ ________________________________________________________________________________
 
 
 
-<pre>🔴🟢🟡                           CONNECTION.exe                        —⠀❐ x
+<pre>🔴🟢🟡                           CONNECTION.exe                           —⠀❐ x
   
 <p><img src="https://github-profile-trophy.vercel.app/?username=ayonokoji069">
 </p>
