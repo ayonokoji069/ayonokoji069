@@ -9,12 +9,15 @@ ________________________________________________________________________________
 <pre style="text-align: left;">
 🔴🟢🟡                                     AYANOKOJI.exe                                  —⠀❐ x
 
-<p style="text-align: left;">🔭 I'm currently working on LOADING.........</p>
-<p style="text-align: left;">👯 I want to collaborate on </p>
-<p style="text-align: left;">🙏 I'm looking for help with LOADING.........</p>
-<p style="text-align: left;">🌱 I'm currently learning </p>
-<p style="text-align: left;">💬 Ask me about </p>
-<p style="text-align: left;">📫 How to reach me? </p>
+
+
+
+
+<p style="text-align: left;">🔭 I'm currently working on        LOADING.........</p>
+<p style="text-align: left;">👯 I want to collaborate on        LOADING,,,,,,,,       </p>
+<p style="text-align: left;">🙏 I'm looking for help with       LOADING.........</p>
+<p style="text-align: left;">🌱 I'm currently learning          LOADING,,,,,,,,,,</p>
+<p style="text-align: left;">💬 Ask me about                    LOADING,,,,,,,,,,</p>
 <p style="text-align: left;">I regularly write articles on <a href="LOADING........."></a></p>
 <p style="text-align: left;">All of my projects are available at <a href="LOADING........."></a></p>
 <p style="text-align: left;">Know about my experiences <a href="LOADING.........">here</a></p>
