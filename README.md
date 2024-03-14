@@ -7,8 +7,7 @@ Every challenge is an opportunity to showcase my strength and cunning
 
 <div style="border: 2px solid #000; padding: 10px; max-width: 600px; background-color: #f0f0f0; border-radius: 5px; text-align: left;">
 <pre>
- __________________________________________________________________________________________
-🔴🟢🟡                                     AYANOKOJI.exe                               __________________________________________________________________________________________       
+🔴🟢🟡                                     AYANOKOJI.exe                               
 <br>
 
 
