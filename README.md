@@ -7,7 +7,7 @@ ________________________________________________________________________________
 
 <div style="border: 2px solid #000; padding: 10px; max-width: 600px; background-color: #f0f0f0; border-radius: 5px; text-align: left;">
 <pre>
-🔴🟢🟡                                     AYANOKOJI.exe                                  —⠀❐ x
+🔴🟢🟡                                     AYANOKOJI.exe                                         —⠀❐ x
 <br>
 
 
@@ -29,14 +29,14 @@ ________________________________________________________________________________
 
 
 <pre>
-🔴🟢🟡                                     SKILLS.exe                                 —⠀❐ x
+🔴🟢🟡                                       SKILLS.exe                                        —⠀❐ x
 <p>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="margin-bottom: 4px;" height="30px"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="margin-bottom: 4px;" height="30px"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="margin-bottom: 4px;" height="30px"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" style="margin-bottom: 4px;" height="30px"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
 </p>
 </pre>
 __________________________________________________________________________________________
-<pre>🔴🟢🟡                                 CONNECTION.exe                                —⠀❐ x
+<pre>🔴🟢🟡                                      CONNECTION.exe                                    —⠀❐ x
 <p>
 <a href=""><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a><a href=""><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a><a href="https://github-profile-page-creator.netlify.app/"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a><a href="https://github-profile-page-creator.netlify.app/"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://github-profile-page-creator.netlify.app/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a><a href="https://github-profile-page-creator.netlify.app/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a><a href="https://github-profile-page-creator.netlify.app/"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a><a href="https://github-profile-page-creator.netlify.app/"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a><a href="https://github-profile-page-creator.netlify.app/"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
@@ -45,7 +45,7 @@ ________________________________________________________________________________
 </pre>
 
 __________________________________________________________________________________________
-<pre>🔴🟢🟡                                  STATS.exe                                      —⠀❐ x
+<pre>🔴🟢🟡                                           STATS.exe                                       —⠀❐ x
 
  
  <br>
@@ -64,7 +64,7 @@ ________________________________________________________________________________
 </pre>  
 __________________________________________________________________________________________
 <pre>
- 🔴🟢🟡                                   STATS.exe                                     —⠀❐ x
+ 🔴🟢🟡                                           STATS.exe                                             —⠀❐ x
  <br>
  
  ALL THE ABOVE LINKS AND STATS WILL IMPROVED BY THE END OF THE 2027 .
