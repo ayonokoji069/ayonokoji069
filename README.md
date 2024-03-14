@@ -1,4 +1,4 @@
-
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 <img src="https://github.com/ayonokoji069/ayonokoji069/raw/main/1000000681%20(1).gif" alt="Animated GIF" width="1000">
 
@@ -8,7 +8,7 @@ ________________________________________________________________________________
 <div style="border: 2px solid #000; padding: 10px; max-width: 600px; background-color: #f0f0f0; border-radius: 5px; text-align: left;">
 <pre style="text-align: left;">
 🔴🟢🟡                                     AYANOKOJI.exe                                  —⠀❐ x
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 <p style="text-align: left;">🔭 I'm currently working on LOADING.........</p>
 <p style="text-align: left;">👯 I want to collaborate on </p>
 <p style="text-align: left;">🙏 I'm looking for help with LOADING.........</p>
