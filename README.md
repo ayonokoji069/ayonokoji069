@@ -76,7 +76,5 @@ ________________________________________________________________________________
 </pre>
 
 
-
-
-[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=31mfwbhehhxtb6jhn527wimzegau&cover_image=true&theme=karaoke&show_offline=false&background_color=000000&interchange=false)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mfwbhehhxtb6jhn527wimzegau&cover_image=true&theme=karaoke&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
