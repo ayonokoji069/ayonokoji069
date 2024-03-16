@@ -74,6 +74,10 @@ ________________________________________________________________________________
  EXCTING REPO WILL ALSO BE COMING SOON .
  
 </pre>
+__________________________________________________________________________________________
+
+
+🔴🟢🟡                                       SKILLS.exe                                 
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mfwbhehhxtb6jhn527wimzegau&cover_image=true&theme=karaoke&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
