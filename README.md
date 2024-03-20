@@ -80,5 +80,5 @@ ________________________________________________________________________________
 🔴🟢🟡                                       SONG.exe                                 
 
 </pre>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mfwbhehhxtb6jhn527wimzegau&cover_image=true&theme=karaoke&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31mfwbhehhxtb6jhn527wimzegau&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31mfwbhehhxtb6jhn527wimzegau&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)]]
 
